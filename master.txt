@@ -1,2 +1,1 @@
 first commit in master.txt
-second commit in master.txt
